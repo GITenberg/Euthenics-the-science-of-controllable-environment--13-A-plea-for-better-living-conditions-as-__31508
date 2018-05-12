@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4340'
     url: http://www.gutenberg.org/2009/agents/4340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31508#Euthenics-the-science-of-controllable-environment--13-A-plea-for-better-living-conditions-as-_
 gutenberg_issued: '2010-03-05'
 gutenberg_type: Text
 identifiers:
