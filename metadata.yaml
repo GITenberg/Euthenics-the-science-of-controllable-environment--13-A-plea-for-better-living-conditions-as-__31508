@@ -1,0 +1,30 @@
+_repo: Euthenics-the-science-of-controllable-environment--13-A-plea-for-better-living-conditions-as-__31508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Ellen H. (Ellen Henrietta)
+    aliases:
+    - Richards, Ellen Henrietta
+    - Swallow, Ellen
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '4340'
+    url: http://www.gutenberg.org/2009/agents/4340
+description: ''
+gutenberg_issued: '2010-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Euthenics'
+- !lcc 'HN'
+title: "Euthenics, the science of controllable environment\r\nA plea for better living\
+  \ conditions as a first step toward higher human efficiency"
+url: http://www.gutenberg.org/ebooks/31508
